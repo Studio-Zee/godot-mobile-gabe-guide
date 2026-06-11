@@ -101,15 +101,15 @@ assets/
 
 Encontrou algum erro na documentação ou quer sugerir melhorias?
 
-Abra uma Issue ou envie um Pull Request.
+Abra uma [Issue](https://github.com/Studio-Zee/godot-mobile-gabe-guide/issues) ou envie um [Pull Request](https://github.com/Studio-Zee/godot-mobile-gabe-guide/pulls).
 
 ---
 
 ## Links Úteis
 
-- Godot Engine: https://godotengine.org
-- GABE na Play Store: https://play.google.com/store/apps/details?id=org.godotengine.godot_gradle_build_environment
-- Canal Zee GameDev: https://youtube.com/@ZeeGameDev
+- Godot Mobile: [download](https://play.google.com/store/apps/details?id=org.godotengine.editor.v4)
+- GABE na Play Store: [download](https://play.google.com/store/apps/details?id=org.godotengine.godot_gradle_build_environment)
+- Canal Zee GameDev: [inscreva-se](https://youtube.com/@ZeeGameDev)
 
 ---
 
