@@ -2,7 +2,7 @@
 
 Repositório oficial da série **Godot Mobile + GABE** do canal Zee GameDev.
 
-O objetivo deste projeto é reunir documentação, projetos de exemplo e tutoriais sobre o uso do GABE (Godot Android Build Environment) para desbloquear recursos avançados do Android diretamente na Godot Mobile.
+O objetivo deste projeto é reunir documentação, projetos de exemplo e tutoriais sobre o uso do [GABE](https://godotengine.org/article/gabe-stable-release/) (Godot Android Build Environment) para desbloquear recursos avançados do Android diretamente na Godot Mobile.
 
 Com o GABE, agora é possível utilizar funcionalidades que antes exigiam um computador, como notificações nativas, plugins Android, AdMob, compras integradas e exportação de arquivos AAB para publicação na Play Store.
 
