@@ -25,26 +25,26 @@ Acompanhe os vídeos da série no canal Zee GameDev:
 
 ### Introdução
 
-- [Configurando o GABE](docs/01-instalacao-gabe.md)
+- [Configurando o GABE](documentacao/01-instalacao-gabe.md)
 
 ### Recursos Android
 
-- [Toast Android](docs/02-toast-android.md)
-- [Notificações Locais](docs/03-notificacoes.md)
+- [Toast Android](documentacao/06-toast-android.md)
+- [Notificações Locais](documentacao/02-notificacoes.md)
 
 ### Publicação
 
-- [Gerando APK com Gradle](docs/04-gradle-build.md)
-- [Gerando AAB para Play Store](docs/05-exportando-aab.md)
+- [Gerando APK com Gradle](documentacao/03-gradle-build.md)
+- [Gerando AAB para Play Store](documentacao/04-exportando-aab.md)
 
 ### Monetização
 
-- [AdMob](docs/06-admob.md)
-- [Compras Integradas](docs/07-iap.md)
+- [AdMob](documentacao/05-admob.md)
+- [Compras Integradas](documentacao/07-iap.md)
 
 ### Serviços Online
 
-- [Firebase](docs/08-firebase.md)
+- [Firebase](documentacao/08-firebase.md)
 
 ---
 
