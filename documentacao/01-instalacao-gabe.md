@@ -27,7 +27,7 @@ Na tela inicial haverá um botão azul responsável por baixar os componentes ne
 
 Clique no botão e aguarde o download terminar.
 
-**Dica:** O processo foi concluído quando o botão deixar de exibir "Download" e passar a exibir "Delete".
+**Dica:** O processo foi concluído quando o botão deixar de exibir "Install" e passar a exibir "Delete".
 
 Após a conclusão, o aplicativo pode ser fechado normalmente. Ele será iniciado automaticamente quando a Godot precisar realizar uma compilação Gradle.
 
