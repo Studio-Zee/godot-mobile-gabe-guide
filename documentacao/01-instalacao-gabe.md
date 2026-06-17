@@ -53,7 +53,7 @@ Agora precisamos preparar o projeto para utilizar o sistema de compilação Grad
 1. Abra seu projeto na Godot Mobile.
 2. Acesse:
 
-Projeto → Instalar Modelo de Compilação Android
+Menu Principal → Projeto → Instalar Modelo de Compilação Android...
 
 <table align="center">
     <img src="/assets/imagens/modelos_compilacao.png" alt="Modelos de Compilacao">
