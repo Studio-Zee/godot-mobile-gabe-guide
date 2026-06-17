@@ -31,7 +31,18 @@ Clique no botão e aguarde o download terminar.
 
 Após a conclusão, o aplicativo pode ser fechado normalmente. Ele será iniciado automaticamente quando a Godot precisar realizar uma compilação Gradle.
 
-*Print sugerido: Tela inicial do GABE antes e depois do download.*
+<table align="center">
+  <tr>
+    <td><img src="/assets/imagens/playstore.png" width="200" alt="Baixe o GABE"></td>
+    <td><img src="/assets/imagens/instalar.png" width="200" alt="Instale o Rootfs"></td>
+    <td><img src="/assets/imagens/deletar.png" width="200" alt="Delete o Rootfs"></td>
+  </tr>
+  <tr align="center">
+    <td><b>1. Baixe o GABE</b></td>
+    <td><b>2. Instalar o Rootfs</b></td>
+    <td><b>3. Deletar o Rootfs</b></td>
+  </tr>
+</table>
 
 ---
 
