@@ -55,20 +55,21 @@ Agora precisamos preparar o projeto para utilizar o sistema de compilação Grad
 
 Projeto → Instalar Modelo de Compilação Android
 
+<table align="center">
+    <img src="/assets/imagens/modelos_compilacao.png" alt="Modelos de Compilacao">
+</table>
+
 3. Confirme a instalação.
 
 Esse processo criará a pasta:
 
-```
-android/
-
-```
+<table align="center">
+    <img src="/assets/imagens/pasta_android.png" width="200" alt="Pasta Android">
+</table>
 
 dentro do projeto.
 
 Esse procedimento deve ser realizado em cada projeto que utilizar recursos Android avançados.
-
-*Print sugerido: Menu destacando a opção "Instalar Modelo de Compilação Android".*
 
 ---
 
