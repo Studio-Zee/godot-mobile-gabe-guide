@@ -13,7 +13,7 @@ Com o GABE, agora é possível utilizar funcionalidades que antes exigiam um com
 Acompanhe os vídeos da série no canal Zee GameDev:
 
 - Episódio 1 - [Configurando o GABE](https://youtu.be/TGiyKU4TJkE)
-- Episódio 2 - Notificações (Locais e Push)
+- Episódio 2 - [Notificações (Locais e Push)](https://youtu.be/joDtN-6b7Ks)
 - Episódio 3 - Exportação AAB
 - Episódio 4 - AdMob e anúncios
 - Episódio 5 - Toast Android
