@@ -1,0 +1,56 @@
+[gd_scene format=3 uid="uid://disb4tql2hq20"]
+
+[ext_resource type="Script" uid="uid://b7vrm6cgrhcfa" path="res://control.gd" id="1_62e2m"]
+[ext_resource type="Script" uid="uid://w6efncvig0ja" path="res://addons/NotificationSchedulerPlugin/NotificationScheduler.gd" id="2_62e2m"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_arvj2"]
+font_size = 40
+shadow_size = 4
+shadow_color = Color(0, 0, 0, 1)
+shadow_offset = Vector2(0, 4)
+
+[node name="Control" type="Control" unique_id=722488861]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_62e2m")
+
+[node name="Button" type="Button" parent="." unique_id=1027961660]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -224.0
+offset_top = -99.0
+offset_right = 227.0
+offset_bottom = 25.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 85
+text = "Abrir Baú"
+
+[node name="Label" type="Label" parent="." unique_id=1449726924]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -294.0
+offset_top = -299.0
+offset_right = 294.0
+offset_bottom = -183.0
+grow_horizontal = 2
+grow_vertical = 0
+label_settings = SubResource("LabelSettings_arvj2")
+
+[node name="NotificationScheduler" type="Node" parent="." unique_id=1987557360]
+script = ExtResource("2_62e2m")
+metadata/_custom_type_script = "uid://w6efncvig0ja"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
